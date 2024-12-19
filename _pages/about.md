@@ -19,17 +19,14 @@ redirect_from:
 
 </span></strong></a> 
 
-
-# 🔥 News
-
-
 # 📝 Publications 
 
 
 
 # 🎖 Honors and Awards
-
-
+- 2023.12 Merit Student of Heilongjiang Province
+- 2023.06 2st Prize of The 8th National Undergraduate Life Science Competition
+- 2022.081st Prize of The 7th National Undergraduate Life Science Competition
 # 📖 Educations
 
 
