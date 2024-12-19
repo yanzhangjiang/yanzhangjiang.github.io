@@ -2,7 +2,7 @@
  * @Author: Yanzhang Jiang resicojyz@gmail.com
  * @Date: 2024-12-19 15:05:10
  * @LastEditors: Yanzhang Jiang resicojyz@gmail.com
- * @LastEditTime: 2024-12-19 16:51:06
+ * @LastEditTime: 2024-12-19 17:02:34
  * @FilePath: /yanzhangjiang.github.io/_pages/about.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -25,24 +25,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Text
+- Text
 
 
 # 🔥 News
-Text
+- Text
 
 # 📝 Publications 
 
-Text
+- Text
 
 # 🎖 Honors and Awards
-Text
+- Text
 
 # 📖 Educations
-Text
+- Text
 
 # 💬 Invited Talks
-Text
+- Text
 
 # 💻 Internships
-Text
+- Text
