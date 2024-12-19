@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- </span></strong></a> 
+</span></strong></a> 
 
 
 # 🔥 News
