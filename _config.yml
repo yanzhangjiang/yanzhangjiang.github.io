@@ -7,12 +7,12 @@
 
 # Site Settings
 title                    : "Yanzhang Jiang"
-description              : "Undergraduate Student major in Ecology, Synthetic Biology and Protein Design. A Visiting Student in Westlake University now"
+description              : "Undergraduate Student major in Ecology, focus on Synthetic Biology and Protein Design. A Visiting Student in Westlake University now."
 repository               : "https://github.com/yanzhangjiang"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "10069059958"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
